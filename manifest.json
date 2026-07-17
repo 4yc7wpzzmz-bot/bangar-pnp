@@ -1,5 +1,5 @@
 {
-  "background_color": "#245ef8",
+  "background_color": "#03c7fd",
   "dir": "ltr",
   "display": "standalone",
   "name": "Bangar PNP - Heart of Service",
@@ -7,7 +7,7 @@
   "scope": "/",
   "short_name": "Bangar PNP - Heart of Service",
   "start_url": "/",
-  "theme_color": "#1552d3",
+  "theme_color": "#02b4fc",
   "id": "bangar-pnp-official",
-  "description": "Official Support page for Bangar Police Station - Uplifting words, mission, vision and core values for Personnel."
+  "description": "Official Support page for Bangar Municipal Police Station - uplifting words, mission, vision, and core values for Personnel"
 }
